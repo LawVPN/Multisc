@@ -102,4 +102,8 @@ echo "IP=" >> /var/lib/lawnet-pro/ipvps.conf
 
 NB:
 1. Dependencies: squid3 is missing in debian 11
-2.
+2. (optional) get the newest node.js version
+3. remove fi in dependencies
+4. 
+
+progress: [setup] line 113 done
